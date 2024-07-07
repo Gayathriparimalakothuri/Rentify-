@@ -1,0 +1,19 @@
+.login-page{
+    min-height: 100vh;
+    display: flex !important;
+    justify-content: center;
+    background-image: url("../background.jpg");
+    background-size: cover;
+    background-position: center;
+    opacity: 0.9;
+}
+
+.login-header{
+    margin: 5px 1px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: large;
+}
+.login-form{
+    width: 60%;
+}

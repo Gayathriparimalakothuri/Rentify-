@@ -1,0 +1,27 @@
+.form-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-card{
+    width: 70%;
+    height: 100%;
+}
+.back-btn{
+    float: right;
+}
+.phone-input{
+    display: flex;
+    margin: 10px;
+    align-items: center;
+}
+.form-control{
+    width: 2rem !important;
+    border-radius: 2rem !important;
+    margin-right: 10px ;
+}
+.btn-cont{
+    display: flex;
+    justify-content: center;
+   align-items: center;
+}
